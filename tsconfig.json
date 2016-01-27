@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "target": "es5",
     "noEmitOnError": true,
     "inlineSourceMap": true,
     "module": "commonjs",
