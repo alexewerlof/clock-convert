@@ -1,0 +1,26 @@
+{
+  "name": "clock-convert",
+  "version": "0.0.0",
+  "description": "A suit of utility functions for developing clock applications",
+  "main": "clock-convert.js",
+  "scripts": {
+    "test": "mocha clock-convert-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userpixel/clock-convert.git"
+  },
+  "keywords": [
+    "clock",
+    "timer"
+  ],
+  "author": "userpixel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/userpixel/clock-convert/issues"
+  },
+  "homepage": "https://github.com/userpixel/clock-convert#readme",
+  "devDependencies": {
+    "mocha": "^2.4.2"
+  }
+}
