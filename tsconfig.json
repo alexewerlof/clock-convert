@@ -8,7 +8,8 @@
     "preserveConstEnums": true,
     "removeComments": false
   },
-  "exclude": [
-    "node_modules"
+  "files": [
+    "clock-convert.ts",
+    "clock-convert-test.ts"
   ]
 }
